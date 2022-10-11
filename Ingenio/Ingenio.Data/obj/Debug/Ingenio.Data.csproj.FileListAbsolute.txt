@@ -1,0 +1,15 @@
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\bin\Debug\Ingenio.Data.dll.config
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\bin\Debug\Ingenio.Data.dll
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\bin\Debug\Ingenio.Data.pdb
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\bin\Debug\EntityFramework.dll
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\bin\Debug\Ingenio.Entities.dll
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\bin\Debug\Ingenio.Entities.pdb
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\bin\Debug\Ingenio.Entities.dll.config
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\bin\Debug\EntityFramework.xml
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\obj\Debug\Ingenio.Data.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\obj\Debug\Ingenio.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\obj\Debug\Ingenio.Data.csproj.CopyComplete
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\obj\Debug\Ingenio.Data.dll
+C:\Users\USER\Downloads\Ingenio-main\Ingenio-main\Ingenio\Ingenio.Data\obj\Debug\Ingenio.Data.pdb
